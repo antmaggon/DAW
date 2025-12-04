@@ -1,5 +1,1 @@
-GET: Se utiliza para solicitar datos de un recurso especificado. Es el método más común y se usa para cargar páginas web.
 
-POST: Se utiliza para enviar datos a un recurso específico. Se usa típicamente para enviar formularios o cargar archivos.
-
-PUT: Se utiliza para reemplazar todas las representaciones actuales del recurso de destino con la carga útil de la solicitud. Es decir, sirve para actualizar o crear un recurso si se conoce su URL.
