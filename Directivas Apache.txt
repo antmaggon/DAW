@@ -1,1 +1,4 @@
+DocumentRoot
+Options
+AllowOverride
 
